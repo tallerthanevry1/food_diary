@@ -22,7 +22,7 @@ I choose this concept because I've had times where I would try to remember what 
 
 ### Wireframes
 
-![Trello Board]()
+![Trello Board](https://trello.com/b/yB1YusON/fooddiary)
 
 ### Daily Plan
 
@@ -40,7 +40,7 @@ I choose this concept because I've had times where I would try to remember what 
 | 3 |
 | 3 |  
 ### Link to Project
-[My Project Live Page]()
+[My Project Live Page](https://food-diary.onrender.com/)
 
 ## Setup Dependencies
 - dotenv
